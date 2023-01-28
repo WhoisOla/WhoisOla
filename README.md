@@ -8,7 +8,7 @@
 ### <div align="center">I'm John, a growing  full-stack freelance developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on JavaScript   
+- 🔭 I’m currently working on React  
   
 
 - 🌱 I’m currently learning to become a full stack developer  
